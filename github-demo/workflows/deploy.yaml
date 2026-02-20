@@ -1,9 +1,9 @@
 name: Deploy to Azure Blob Storage
 
-on:
-  push:
-    branches:
-      - main  # Adjust to your branch name
+#on:
+#  push:
+#    branches:
+#      - main  # Adjust to your branch name
 
 jobs:
   deploy:
